@@ -30,7 +30,7 @@ twitter_username: BChichereau
 github_username:  Safarte
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 
